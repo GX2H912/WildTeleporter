@@ -1,0 +1,7 @@
+name: WildTeleporter
+main: me.firecrystal12.Teleporter
+version: 1.0
+commands:
+   wild:
+      description: The player who has sent the command will be teleported randomly, and please thank FireCrystal12 For making this plugin for this server!!!!
+      usage: /<command>
